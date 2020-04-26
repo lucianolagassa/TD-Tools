@@ -1,0 +1,19 @@
+TDServer: http://172.16.0.2/tdserver/
+TDServer: 172.16.0.2
+
+# Activar Port Forward
+sysctl net.ipv4.ip_forward=1
+
+# Reglas de Forward
+iptables -t nat -A PREROUTING -p tcp --dport 80 -j DNAT --to-destination 172.16.0.2:80
+iptables -t nat -A PREROUTING -p tcp --dport 443 -j DNAT --to-destination 172.16.0.2:443
+iptables -t nat -A PREROUTING -p tcp --dport 1000 -j DNAT --to-destination 172.16.0.2:1000
+iptables -t nat -A POSTROUTING -j MASQUERADE
+
+#Limpiar
+iptables -F
+iptables -t nat -F
+iptables -t mangle -F
+iptables -X
+/etc/init.d/networking restart > /dev/null
+
