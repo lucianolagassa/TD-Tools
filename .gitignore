@@ -1,5 +1,7 @@
-Client/Metodo1/Tools/!config.txt
-Client/Metodo1/Tools
-Client/Metodo2/Tools/!config.txt
-Client/Metodo2/Tools
-Client/Metodo3/NSIS
+Client/Metodo1/Tools/*
+Client/Metodo2/Tools/*
+Client/Metodo3/NSIS/*
+
+# Si se Suben
+!Client/Metodo1/Tools/config.txt
+!Client/Metodo2/Tools/config.txt
