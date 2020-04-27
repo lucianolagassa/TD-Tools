@@ -1,6 +1,6 @@
 # TDClient Config Fix
 
-Client Config Fix: Es un programa para corregir la configuración del TDClient en las Netbooks, de esta forma se puede reconfigurar cada terminal con solo ejecutar el ejecutable.
+Client Config Fix: Es un programa para corregir la configuración del TDClient en las Netbooks, de esta forma se puede reconfigurar cada terminal con solo iniciar el ejecutable.
 
 Metodos:
 
