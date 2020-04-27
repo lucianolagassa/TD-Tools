@@ -1,5 +1,0 @@
-;!@Install@!UTF-8!
-Title="TDClient Config Fix"
-Directory="%temp%"
-ExecuteFile="TDClient-Fix.exe"
-;!@InstallEnd@!
