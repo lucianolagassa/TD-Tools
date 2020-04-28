@@ -1,4 +1,4 @@
-# TDClient Config Fix y **TDServer** Gateway
+# TDClient Config Fix y TDServer Gateway
 
 Este proyecto esta destinado a brindar una solución para los establecimientos educativos donde esta implementado el sistema ****TDServer****, esta consta de 2 partes:
 
@@ -9,4 +9,4 @@ Este proyecto esta destinado a brindar una solución para los establecimientos e
 Nota: No se utilizaran los nombres de los productos que forman parte del sistema TD, para evitar problemas legales, dado que son propiedad de sus respectivos dueños.
 
 
-** Luciano Lagassa - Matias Nuccelli - Cristian Krumm - Facundo Carrasco **
+**Luciano Lagassa - Matias Nuccelli - Cristian Krumm - Facundo Carrasco**

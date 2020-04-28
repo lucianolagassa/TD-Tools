@@ -1,6 +1,6 @@
 # TDServer Gateway - Linux
 
-Gateway: Es un equipo corriendo linux, que permite hacer de gateway, locación del TDServer para asi hacer lo accesible desde Internet.
+**Gateway:** Es un equipo corriendo linux, que permite hacer de gateway, locación del **TDServer** para asi hacer lo accesible desde Internet.
 
 Versiones de Linux Según el Equipo:
 

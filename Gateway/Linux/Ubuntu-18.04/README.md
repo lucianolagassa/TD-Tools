@@ -1,6 +1,6 @@
 # TDServer Gateway - Linux - Ubuntu Server 18.04
 
-Gateway: Es un equipo corriendo linux, que permite hacer de gateway, locación del TDServer para asi hacer lo accesible desde Internet.
+**Gateway:** Es un equipo corriendo linux, que permite hacer de gateway, locación del **TDServer** para asi hacer lo accesible desde Internet.
 
 Pasos para Ubuntu Server 18.04 64bits - Solo esta disponible en esta arquitectura, por lo que si el equipo a destino es de 32bits, se debe utilizar Ubuntu Server 16.04 32Bits.
 
@@ -35,6 +35,6 @@ Iniciar el Equipo con el CD/DVD o Memoria USB y Seguir las Imágenes
 ![Pasos](https://raw.githubusercontent.com/lucianolagassa/TD-Tools/master/Gateway/Linux/Ubuntu-18.04/Capturas/Ubuntu-1804-Install024.png)
 ![Pasos](https://raw.githubusercontent.com/lucianolagassa/TD-Tools/master/Gateway/Linux/Ubuntu-18.04/Capturas/Ubuntu-1804-Install025.png)
 
-Instalar con Solo debe ejecutar el Siguiente Comando desde una Terminal ROOT: curl -L https://github.com/lucianolagassa/TD-Tools/raw/master/Gateway/Setup.sh | bash
+Instalar con Solo debe ejecutar el Siguiente Comando desde una Terminal **ROOT**: 'curl -L https://github.com/lucianolagassa/TD-Tools/raw/master/Gateway/Setup.sh | bash'
 
 Nota: No se utilizaran los nombres de los productos que forman parte del sistema TD, para evitar problemas legales, dado que son propiedad de sus respectivos dueños.
