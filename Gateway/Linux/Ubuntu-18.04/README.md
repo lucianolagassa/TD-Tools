@@ -4,7 +4,7 @@ Gateway: Es un equipo corriendo linux, que permite hacer de gateway, locación d
 
 Pasos para Ubuntu Server 18.04 64bits - Solo esta disponible en esta arquitectura, por lo que si el equipo a destino es de 32bits, se debe utilizar Ubuntu Server 16.04 32Bits.
 
-Descargar el archivo del siguiente Link [Ubuntu Server 18.04 64Bits](https://releases.ubuntu.com/16.04/ubuntu-16.04.6-server-amd64.iso)
+Descargar el archivo del siguiente Link [Ubuntu Server 18.04 64Bits](https://releases.ubuntu.com/18.04/ubuntu-18.04.4-live-server-amd64.iso)
 
 Grabar en un CD/DVD o Memoria USB (Requiere Utilizar una Herramienta para Este Fin)
 
