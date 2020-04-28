@@ -1,8 +1,0 @@
-auto enp5s0
-iface enp5s0 inet static
-        address 172.16.223.50
-        netmask 255.255.0.0
-        network 172.16.255.0
-        broadcast 172.16.255.255
-        gateway 172.16.2.1
-        dns-nameservers 172.16.2.1
