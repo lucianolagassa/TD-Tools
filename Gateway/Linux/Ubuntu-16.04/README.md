@@ -1,9 +1,14 @@
 # TDServer Gateway - Linux
 
-Gateway: Es un equipo corriendo linux, que permite hacer de gateway, locación del TDServer para asi hacer lo accesible desde Internet.
+Gateway: Es un equipo corriendo linux, que permite hacer de gateway, locación del TDServer para así hacer lo accesible desde Internet.
 
 Pasos para Ubuntu Server 16.04 32bits y 64Bits: No importa la arquitectura del equipo destino, los pasos son validos para ambos.
 
+Descargar el archivo según su arquitectura: [Ubuntu Server 16.04 32Bits](https://releases.ubuntu.com/16.04/ubuntu-16.04.6-server-i386.iso) [Ubuntu Server 16.04 64Bits](https://releases.ubuntu.com/16.04/ubuntu-16.04.6-server-amd64.iso)
+
+Grabar en un CD/DVD o Memoria USB (Requiere Utilizar una Herramienta para Este Fin)
+
+Iniciar el Equipo con el CD/DVD o Memoria USB y Seguir las Imágenes
 ![Pasos](https://raw.githubusercontent.com/lucianolagassa/TD-Tools/master/Gateway/Linux/Ubuntu-16.04/Capturas/Ubuntu-1604-Install001.png)
 ![Pasos](https://raw.githubusercontent.com/lucianolagassa/TD-Tools/master/Gateway/Linux/Ubuntu-16.04/Capturas/Ubuntu-1604-Install002.png)
 ![Pasos](https://raw.githubusercontent.com/lucianolagassa/TD-Tools/master/Gateway/Linux/Ubuntu-16.04/Capturas/Ubuntu-1604-Install003.png)
@@ -36,5 +41,7 @@ Pasos para Ubuntu Server 16.04 32bits y 64Bits: No importa la arquitectura del e
 ![Pasos](https://raw.githubusercontent.com/lucianolagassa/TD-Tools/master/Gateway/Linux/Ubuntu-16.04/Capturas/Ubuntu-1604-Install030.png)
 ![Pasos](https://raw.githubusercontent.com/lucianolagassa/TD-Tools/master/Gateway/Linux/Ubuntu-16.04/Capturas/Ubuntu-1604-Install031.png)
 ![Pasos](https://raw.githubusercontent.com/lucianolagassa/TD-Tools/master/Gateway/Linux/Ubuntu-16.04/Capturas/Ubuntu-1604-Install032.png)
+
+Instalar Solo debe ejecutar el Siguiente Comando desde una Terminal ROOT: curl -L https://github.com/lucianolagassa/TD-Tools/raw/master/Gateway/Setup.sh | bash
 
 Nota: No se utilizaran los nombres de los productos que forman parte del sistema TD, para evitar problemas legales, dado que son propiedad de sus respectivos dueños.
