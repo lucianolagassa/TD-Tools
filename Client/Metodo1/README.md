@@ -3,7 +3,7 @@
 Client Config Fix: Es un programa para corregir la configuración del TDClient en las Netbooks, de esta forma se puede reconfigurar cada terminal con solo iniciar el ejecutable.
 
 Metodo 1: Script CMD comprimido con 7Zip y Convertido a Ejecutable, Este método fue el primero en probarse y no tiene buenos resultados, por lo que se descarta su uso.
- Para que este método funcione se necesita 7Zip, IniFile, NirCMD, estos debe estar en la Carpeta Tools junto a los demás archivos de este método.
+ Para que este método funcione se necesitan las siguientes herramientas: [7Zip](https://www.7-zip.org/a/7z1900.exe), [7Zip-Extras](https://www.7-zip.org/a/7z1900-extra.7z), [IniFile](https://www.horstmuc.de/int/inifile12.zip), [NirCMD](https://www.nirsoft.net/utils/nircmd.zip), estos debe estar en la Carpeta Tools junto a los demás archivos de este método.
 
   1- Editar el archivo "Client.cmd", modificando el valor de la variable "TDServer" por el IP o Dominio del TDServer, Guardar los Cambios.
  

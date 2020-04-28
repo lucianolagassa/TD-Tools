@@ -1,4 +1,4 @@
-# TDServer Gateway - Linux
+# TDServer Gateway - Linux - Ubuntu Server 18.04
 
 Gateway: Es un equipo corriendo linux, que permite hacer de gateway, locación del TDServer para asi hacer lo accesible desde Internet.
 
