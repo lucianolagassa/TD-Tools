@@ -4,9 +4,9 @@
 
 **Metodos:**
 
- [Metodo1](Metodo1): Script CMD comprimido con 7Zip y Convertido a Ejecutable
+ ~~[Metodo1](Metodo1): Script CMD comprimido con 7Zip y Convertido a Ejecutable~~
 
- [Metodo2](Metodo2): Aplicación Visual Bacic Net comprimida con 7Zip y Convertido a Ejecutable
+ ~~[Metodo2](Metodo2): Aplicación Visual Bacic Net comprimida con 7Zip y Convertido a Ejecutable~~
 
  **[Metodo3](Metodo3):** Script NSIS que Genera un Ejecutable **(Recomendado)**
 
