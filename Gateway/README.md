@@ -4,7 +4,7 @@ Gateway: Es un equipo corriendo linux, que permite hacer de gateway, locación d
 
 Pasos:
 
- 1- Instalar Linux, Se recomienda utilizar Ubuntu Server o Debian, de ser posible sin entorno grafico, de esta forma se pueden aprovechar equipos en desuso.
+ 1- [Instalar Linux](Linux), Se recomienda utilizar Ubuntu Server o Debian, de ser posible sin entorno grafico, de esta forma se pueden aprovechar equipos en desuso.
 
  2- Instalar Solo debe ejecutar el Siguiente Comando desde una Terminal ROOT: curl -L https://github.com/lucianolagassa/TD-Tools/raw/master/Gateway/Setup.sh | bash
 
