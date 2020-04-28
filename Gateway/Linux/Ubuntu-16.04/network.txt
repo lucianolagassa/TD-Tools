@@ -1,6 +1,6 @@
 auto enp5s0
 iface enp5s0 inet static
-        address 172.16.223.51
+        address 172.16.223.50
         netmask 255.255.0.0
         network 172.16.255.0
         broadcast 172.16.255.255
