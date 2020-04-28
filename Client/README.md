@@ -4,11 +4,11 @@ Client Config Fix: Es un programa para corregir la configuración del TDClient e
 
 Metodos:
 
- 1- Script CMD comprimido con 7Zip y Convertido a Ejecutable
+ [Metodo N°:1](Metodo1): Script CMD comprimido con 7Zip y Convertido a Ejecutable
 
- 2- Aplicación Visual Bacic Net comprimida con 7Zip y Convertido a Ejecutable
+ [Metodo N°:2](Metodo2): Aplicación Visual Bacic Net comprimida con 7Zip y Convertido a Ejecutable
 
- 3- Script NSIS que Genera un Ejecutable (Recomendado)
+ [Metodo N°:2](Metodo3): Script NSIS que Genera un Ejecutable (Recomendado)
 
 
 Nota: No se utilizaran los nombres de los productos que forman parte del sistema TD, para evitar problemas legales, dado que son propiedad de sus respectivos dueños.
